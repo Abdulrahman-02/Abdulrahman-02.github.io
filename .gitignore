@@ -1,0 +1,10 @@
+# Hugo build output
+public/
+
+# Hugo cache
+.hugo_build.lock
+resources/_gen/
+
+# OS
+.DS_Store
+Thumbs.db
